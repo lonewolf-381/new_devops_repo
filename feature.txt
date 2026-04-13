@@ -1,1 +1,11 @@
 New feature code
+
+Linux commands:
+
+time
+list
+ls
+cd
+cat
+
+etc.....`
